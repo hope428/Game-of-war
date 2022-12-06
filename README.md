@@ -11,6 +11,11 @@ This project uses a deck of cards API to get a random card for Player 1 and Play
 
 ![image of the app](./media/screenshot.png)
 
+## Features
+-Deck of cards API
+-Ability to reset deck
+-Scorekeeping for players 1 and 2
+
 ## Credits
 
 Scrimba <br/>
